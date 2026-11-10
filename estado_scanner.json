@@ -1,0 +1,30 @@
+{
+  "actualizado": "2026-11-10T18:04:03+01:00",
+  "ultima_sesion": "2026-11-10",
+  "notificados": {
+    "entradas": {
+      "EDV.L#2026-11-10": "referencia inicial",
+      "BRBY.L#2026-11-06": "referencia inicial",
+      "AD.AS#2026-11-05": "referencia inicial",
+      "ICG.L#2026-11-05": "referencia inicial",
+      "RKT.L#2026-11-05": "referencia inicial",
+      "IVG.MI#2026-10-29": "referencia inicial",
+      "ADYEN.AS#2026-10-16": "referencia inicial",
+      "AZN.L#2026-10-16": "referencia inicial",
+      "KGF.L#2026-10-16": "referencia inicial"
+    },
+    "pendientes": {},
+    "vigilancia": {
+      "GSK.L#2026-11-10": "referencia inicial"
+    },
+    "eventos": {
+      "AD.AS#TP1#2026-11-05": "referencia inicial",
+      "AD.AS#TP2#2026-11-10": "referencia inicial",
+      "AZN.L#TP1#2026-10-30": "referencia inicial",
+      "AZN.L#TP2#2026-10-30": "referencia inicial",
+      "KGF.L#TP1#2026-11-04": "referencia inicial",
+      "KGF.L#TP2#2026-11-05": "referencia inicial"
+    }
+  },
+  "cola_envio": []
+}

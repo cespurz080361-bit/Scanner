@@ -1,0 +1,8 @@
+# Logs y temporales
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# Salidas fechadas de cada ejecución (las copias *_ultimo.* sí se commitean)
+salidas/scanner_T12_EU_????-??-??*
