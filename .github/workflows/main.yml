@@ -1,0 +1,64 @@
+# Escaneo diario de los 231 constituyentes europeos (Elliott Wave Impulse +
+# disparador T12 + caída previa > 20 %) con alertas por Telegram.
+#
+# El cron va en UTC: 17:30 UTC = 18:30 en España (invierno, CET) y
+# 19:30 en verano (CEST). En ambos casos la sesión europea ya está cerrada
+# (los mercados cierran a las 17:30 hora local) y Yahoo ya ha publicado el
+# cierre del día. GitHub puede retrasar los cron unos minutos: es normal.
+
+on:
+  schedule:
+    - cron: '30 17 * * 1-5'   # lunes a viernes, tras el cierre europeo
+  workflow_dispatch:           # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write              # necesario para commitear estado y salidas
+
+concurrency:
+  group: scanner-t12
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0       # histórico completo para poder hacer push
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scanner (1 ciclo)
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scanner_t12.py --una-vez
+
+      - name: Guardar estado y salidas en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear"
+          else
+            git commit -m "Scanner T12 $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
+
+      - name: Subir salidas como artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: salidas-scanner-t12
+          path: salidas/
+          retention-days: 90
