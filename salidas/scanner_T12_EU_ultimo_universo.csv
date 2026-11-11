@@ -1,0 +1,232 @@
+ticker,nombre,indices,pais,pais_sede,sector,fuente_sector
+ADS.DE,Adidas,DAX+ESTX50,Alemania,Germany,Consumo discrecional,Yahoo
+AIR.PA,Airbus,CAC40+DAX+ESTX50,Francia,Netherlands,Industria,Yahoo
+ALV.DE,Allianz,DAX+ESTX50,Alemania,Germany,Servicios financieros,Yahoo
+BAS.DE,BASF,DAX+ESTX50,Alemania,Germany,Materiales primas,Yahoo
+BAYN.DE,Bayer,DAX+ESTX50,Alemania,Germany,Salud,Yahoo
+BEI.DE,Beiersdorf,DAX,Alemania,Germany,Consumo básico,Yahoo
+BMW.DE,BMW,DAX+ESTX50,Alemania,Germany,Consumo discrecional,Yahoo
+BNR.DE,Brenntag,DAX,Alemania,Germany,Materiales primas,Yahoo
+CBK.DE,Commerzbank,DAX,Alemania,Germany,Servicios financieros,Yahoo
+CON.DE,Continental,DAX,Alemania,Germany,Consumo discrecional,Yahoo
+DTG.DE,Daimler Truck,DAX,Alemania,Germany,Industria,Yahoo
+DBK.DE,Deutsche Bank,DAX+ESTX50,Alemania,Germany,Servicios financieros,Yahoo
+DB1.DE,Deutsche Börse,DAX+ESTX50,Alemania,Germany,Servicios financieros,Yahoo
+DHL.DE,Deutsche Post,DAX+ESTX50,Alemania,Germany,Industria,Yahoo
+DTE.DE,Deutsche Telekom,DAX+ESTX50,Alemania,Germany,Comunicaciones,Yahoo
+EOAN.DE,E.ON,DAX,Alemania,Germany,Utilities,Yahoo
+FRE.DE,Fresenius,DAX,Alemania,Germany,Salud,Yahoo
+FME.DE,Fresenius Medical Care,DAX,Alemania,Germany,Salud,Yahoo
+G1A.DE,GEA Group,DAX,Alemania,Germany,Industria,Yahoo
+HNR1.DE,Hannover Re,DAX,Alemania,Germany,Servicios financieros,Yahoo
+HEI.DE,Heidelberg Materials,DAX,Alemania,Germany,Materiales primas,Yahoo
+HEN3.DE,Henkel,DAX,Alemania,Germany,Consumo básico,Yahoo
+IFX.DE,Infineon Technologies,DAX+ESTX50,Alemania,Germany,Tecnología,Yahoo
+MBG.DE,Mercedes-Benz Group,DAX+ESTX50,Alemania,Germany,Consumo discrecional,Yahoo
+MRK.DE,Merck,DAX,Alemania,Germany,Salud,Yahoo
+MTX.DE,MTU Aero Engines,DAX,Alemania,Germany,Industria,Yahoo
+MUV2.DE,Munich Re,DAX+ESTX50,Alemania,Germany,Servicios financieros,Yahoo
+PAH3.DE,Porsche SE,DAX,Alemania,Germany,Consumo discrecional,Yahoo
+QIA.DE,Qiagen,DAX,Alemania,Netherlands,Salud,Yahoo
+RHM.DE,Rheinmetall,DAX+ESTX50,Alemania,Germany,Industria,Yahoo
+RWE.DE,RWE,DAX,Alemania,Germany,Utilities,Yahoo
+SAP.DE,SAP,DAX+ESTX50,Alemania,Germany,Tecnología,Yahoo
+G24.DE,Scout24,DAX,Alemania,Germany,Comunicaciones,Yahoo
+SIE.DE,Siemens,DAX+ESTX50,Alemania,Germany,Industria,Yahoo
+ENR.DE,Siemens Energy,DAX+ESTX50,Alemania,Germany,Industria,Yahoo
+SHL.DE,Siemens Healthineers,DAX,Alemania,Germany,Salud,Yahoo
+SY1.DE,Symrise,DAX,Alemania,Germany,Materiales primas,Yahoo
+VOW3.DE,Volkswagen Group,DAX,Alemania,Germany,Consumo discrecional,Yahoo
+VNA.DE,Vonovia,DAX,Alemania,Germany,Inmobiliario,Yahoo
+ZAL.DE,Zalando,DAX,Alemania,Germany,Consumo discrecional,Yahoo
+AC.PA,Accor,CAC40,Francia,France,Consumo discrecional,Yahoo
+AI.PA,Air Liquide,CAC40+ESTX50,Francia,France,Materiales primas,Yahoo
+MT.AS,ArcelorMittal,CAC40,Países Bajos,Luxembourg,Materiales primas,Yahoo
+CS.PA,Axa,CAC40+ESTX50,Francia,France,Servicios financieros,Yahoo
+BNP.PA,BNP Paribas,CAC40+ESTX50,Francia,France,Servicios financieros,Yahoo
+EN.PA,Bouygues,CAC40,Francia,France,Industria,Yahoo
+BVI.PA,Bureau Veritas,CAC40,Francia,France,Industria,Yahoo
+CAP.PA,Capgemini,CAC40,Francia,France,Tecnología,Yahoo
+CA.PA,Carrefour,CAC40,Francia,France,Consumo básico,Yahoo
+ACA.PA,Crédit Agricole,CAC40,Francia,France,Servicios financieros,Yahoo
+BN.PA,Danone,CAC40+ESTX50,Francia,France,Consumo básico,Yahoo
+DSY.PA,Dassault Systèmes,CAC40,Francia,France,Tecnología,Yahoo
+FGR.PA,Eiffage,CAC40,Francia,France,Industria,Yahoo
+ENGI.PA,Engie,CAC40+ESTX50,Francia,France,Utilities,Yahoo
+EL.PA,EssilorLuxottica,CAC40+ESTX50,Francia,France,Salud,Yahoo
+ERF.PA,Eurofins Scientific,CAC40,Francia,Luxembourg,Salud,Yahoo
+ENX.PA,Euronext,CAC40,Francia,Netherlands,Servicios financieros,Yahoo
+RMS.PA,Hermès,CAC40+ESTX50,Francia,France,Consumo discrecional,Yahoo
+KER.PA,Kering,CAC40,Francia,France,Consumo discrecional,Yahoo
+OR.PA,L'Oréal,CAC40+ESTX50,Francia,France,Consumo básico,Yahoo
+LR.PA,Legrand,CAC40,Francia,France,Industria,Yahoo
+MC.PA,LVMH,CAC40+ESTX50,Francia,France,Consumo discrecional,Yahoo
+ML.PA,Michelin,CAC40,Francia,,Industria,Wikipedia
+ORA.PA,Orange,CAC40,Francia,France,Comunicaciones,Yahoo
+RI.PA,Pernod Ricard,CAC40,Francia,France,Consumo básico,Yahoo
+PUB.PA,Publicis,CAC40,Francia,France,Comunicaciones,Yahoo
+RNO.PA,Renault,CAC40,Francia,France,Consumo discrecional,Yahoo
+SAF.PA,Safran,CAC40+ESTX50,Francia,France,Industria,Yahoo
+SGO.PA,Saint-Gobain,CAC40+ESTX50,Francia,France,Industria,Yahoo
+SAN.PA,Sanofi,CAC40+ESTX50,Francia,France,Salud,Yahoo
+SU.PA,Schneider Electric,CAC40+ESTX50,Francia,France,Industria,Yahoo
+GLE.PA,Société Générale,CAC40,Francia,France,Servicios financieros,Yahoo
+STLAP.PA,Stellantis,CAC40,Francia,Netherlands,Consumo discrecional,Yahoo
+STMPA.PA,STMicroelectronics,CAC40,Francia,Switzerland,Tecnología,Yahoo
+HO.PA,Thales,CAC40,Francia,France,Industria,Yahoo
+TTE.PA,TotalEnergies,CAC40+ESTX50,Francia,France,Energía,Yahoo
+URW.PA,Unibail-Rodamco-Westfield,CAC40,Francia,France,Inmobiliario,Yahoo
+VIE.PA,Veolia,CAC40,Francia,France,Industria,Yahoo
+DG.PA,Vinci,CAC40+ESTX50,Francia,France,Industria,Yahoo
+ADYEN.AS,Adyen,ESTX50,Países Bajos,Netherlands,Tecnología,Yahoo
+AD.AS,Ahold Delhaize,ESTX50,Países Bajos,Netherlands,Consumo básico,Yahoo
+ABI.BR,Anheuser-Busch InBev,ESTX50,Bélgica,Belgium,Consumo básico,Yahoo
+ARGX.BR,Argenx,ESTX50,Bélgica,Netherlands,Salud,Yahoo
+ASML.AS,ASML Holding,ESTX50,Países Bajos,Netherlands,Tecnología,Yahoo
+BBVA.MC,BBVA,ESTX50,España,Spain,Servicios financieros,Yahoo
+SAN.MC,Banco Santander,ESTX50,España,Spain,Servicios financieros,Yahoo
+ENEL.MI,Enel,ESTX50+FTSEMIB,Italia,Italy,Utilities,Yahoo
+ENI.MI,Eni,ESTX50+FTSEMIB,Italia,Italy,Energía,Yahoo
+RACE.MI,Ferrari,ESTX50+FTSEMIB,Italia,Italy,Consumo discrecional,Yahoo
+IBE.MC,Iberdrola,ESTX50,España,Spain,Utilities,Yahoo
+ITX.MC,Inditex,ESTX50,España,Spain,Consumo discrecional,Yahoo
+INGA.AS,ING Group,ESTX50,Países Bajos,Netherlands,Servicios financieros,Yahoo
+ISP.MI,Intesa Sanpaolo,ESTX50+FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+NOKIA.HE,Nokia,ESTX50,Finlandia,Finland,Tecnología,Yahoo
+NDA-FI.HE,Nordea,ESTX50,Finlandia,Finland,Servicios financieros,Yahoo
+PRX.AS,Prosus,ESTX50,Países Bajos,Netherlands,Consumo discrecional,Yahoo
+UCG.MI,UniCredit,ESTX50+FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+III.L,3i,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+ABDN.L,Aberdeen Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+ADM.L,Admiral Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+AAF.L,Airtel Africa,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+ALW.L,Alliance Witan,FTSE100,Reino Unido,,Inversión colectiva (trusts),Wikipedia
+AAL.L,Anglo American plc,FTSE100,Reino Unido,United Kingdom,Materiales primas,Yahoo
+ANTO.L,Antofagasta plc,FTSE100,Reino Unido,United Kingdom,Materiales primas,Yahoo
+ABF.L,Associated British Foods,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+AZN.L,AstraZeneca,FTSE100,Reino Unido,United Kingdom,Salud,Yahoo
+AUTO.L,Autotrader Group,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+AV.L,Aviva,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+BAB.L,Babcock International,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+BA.L,BAE Systems,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+BBY.L,Balfour Beatty,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+BARC.L,Barclays,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+BTRW.L,Barratt Redrow,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+BP.L,BP,FTSE100,Reino Unido,United Kingdom,Energía,Yahoo
+BATS.L,British American Tobacco,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+BLND.L,British Land,FTSE100,Reino Unido,United Kingdom,Inmobiliario,Yahoo
+BNZL.L,Bunzl,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+BRBY.L,Burberry Group,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+CNA.L,Centrica,FTSE100,Reino Unido,United Kingdom,Utilities,Yahoo
+CCEP.L,Coca-Cola Europacific Partners,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+CCH.L,Coca-Cola HBC,FTSE100,Reino Unido,Switzerland,Consumo básico,Yahoo
+CPG.L,Compass Group,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+CCC.L,Computacenter,FTSE100,Reino Unido,United Kingdom,Tecnología,Yahoo
+CTEC.L,Convatec,FTSE100,Reino Unido,United Kingdom,Salud,Yahoo
+CRDA.L,Croda International,FTSE100,Reino Unido,United Kingdom,Materiales primas,Yahoo
+DCC.L,DCC Energy,FTSE100,Reino Unido,Ireland,Energía,Yahoo
+DGE.L,Diageo,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+DPLM.L,Diploma,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+EZJ.L,EasyJet,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+EDV.L,Endeavour Mining,FTSE100,Reino Unido,United Kingdom,Materiales primas,Yahoo
+EXPN.L,Experian,FTSE100,Reino Unido,Ireland,Industria,Yahoo
+FCIT.L,F & C Investment Trust,FTSE100,Reino Unido,,Inversión colectiva (trusts),Wikipedia
+FRES.L,Fresnillo plc,FTSE100,Reino Unido,Mexico,Materiales primas,Yahoo
+GAW.L,Games Workshop,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+GLEN.L,Glencore,FTSE100,Reino Unido,Switzerland,Materiales primas,Yahoo
+GSK.L,GSK plc,FTSE100,Reino Unido,United Kingdom,Salud,Yahoo
+HLN.L,Haleon,FTSE100,Reino Unido,United Kingdom,Salud,Yahoo
+HLMA.L,Halma plc,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+HSX.L,Hiscox,FTSE100,Reino Unido,Bermuda,Servicios financieros,Yahoo
+HWDN.L,Howdens Joinery,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+HSBA.L,HSBC,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+ICG.L,ICG,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+IGG.L,IG Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+IHG.L,IHG Hotels & Resorts,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+IMI.L,IMI,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+IMB.L,Imperial Brands,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+INF.L,Informa,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+IAG.L,International Airlines Group,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+ITRK.L,Intertek,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+INVP.L,Investec,FTSE100,Reino Unido,South Africa,Servicios financieros,Yahoo
+ITH.L,Ithaca Energy,FTSE100,Reino Unido,United Kingdom,Energía,Yahoo
+JD.L,JD Sports,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+BGEO.L,Lion Finance Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+KGF.L,Kingfisher plc,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+LAND.L,Land Securities,FTSE100,Reino Unido,United Kingdom,Inmobiliario,Yahoo
+LGEN.L,Legal & General,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+LLOY.L,Lloyds Banking Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+LMP.L,LondonMetric Property,FTSE100,Reino Unido,United Kingdom,Inmobiliario,Yahoo
+LSEG.L,London Stock Exchange Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+MNG.L,M&G,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+MKS.L,Marks & Spencer,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+MRO.L,Melrose Industries,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+MTLN.L,Metlen Energy & Metals,FTSE100,Reino Unido,Greece,Utilities,Yahoo
+NG.L,National Grid plc,FTSE100,Reino Unido,United Kingdom,Utilities,Yahoo
+NWG.L,NatWest Group,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+NXT.L,Next plc,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+PSON.L,Pearson plc,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+PSH.L,Pershing Square Holdings,FTSE100,Reino Unido,,Inversión colectiva (trusts),Wikipedia
+PCT.L,Polar Capital Technology Trust,FTSE100,Reino Unido,,Inversión colectiva (trusts),Wikipedia
+PRU.L,Prudential plc,FTSE100,Reino Unido,Hong Kong,Servicios financieros,Yahoo
+RKT.L,Reckitt,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+REL.L,RELX,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+RTO.L,Rentokil Initial,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+RIO.L,Rio Tinto,FTSE100,Reino Unido,United Kingdom,Materiales primas,Yahoo
+RR.L,Rolls-Royce Holdings,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+SGE.L,Sage Group,FTSE100,Reino Unido,United Kingdom,Tecnología,Yahoo
+SBRY.L,Sainsbury's,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+SMT.L,Scottish Mortgage Investment Trust,FTSE100,Reino Unido,,Inversión colectiva (trusts),Wikipedia
+SGRO.L,Segro,FTSE100,Reino Unido,United Kingdom,Inmobiliario,Yahoo
+SVT.L,Severn Trent,FTSE100,Reino Unido,United Kingdom,Utilities,Yahoo
+SHEL.L,Shell plc,FTSE100,Reino Unido,United Kingdom,Energía,Yahoo
+SMIN.L,Smiths Group,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+SN.L,Smith & Nephew,FTSE100,Reino Unido,United Kingdom,Salud,Yahoo
+SPX.L,Spirax Group,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+SSE.L,SSE plc,FTSE100,Reino Unido,United Kingdom,Utilities,Yahoo
+STAN.L,Standard Chartered,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+SDLF.L,Standard Life,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+STJ.L,St. James's Place,FTSE100,Reino Unido,United Kingdom,Servicios financieros,Yahoo
+TSCO.L,Tesco,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+BBOX.L,Tritax Big Box REIT,FTSE100,Reino Unido,,Inmobiliario (REIT),Wikipedia
+ULVR.L,Unilever,FTSE100,Reino Unido,United Kingdom,Consumo básico,Yahoo
+UU.L,United Utilities,FTSE100,Reino Unido,United Kingdom,Utilities,Yahoo
+VOD.L,Vodafone Group,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+WEIR.L,Weir,FTSE100,Reino Unido,United Kingdom,Industria,Yahoo
+WTB.L,Whitbread,FTSE100,Reino Unido,United Kingdom,Consumo discrecional,Yahoo
+WPP.L,WPP,FTSE100,Reino Unido,United Kingdom,Comunicaciones,Yahoo
+A2A.MI,A2A,FTSEMIB,Italia,Italy,Utilities,Yahoo
+AMP.MI,Amplifon,FTSEMIB,Italia,Italy,Salud,Yahoo
+AVIO.MI,Avio,FTSEMIB,Italia,Italy,Industria,Yahoo
+AZM.MI,Azimut,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+BMED.MI,Banca Mediolanum,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+BMPS.MI,Banca Monte dei Paschi di Siena,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+BAMI.MI,Banco BPM,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+BPE.MI,BPER Banca,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+BC.MI,Brunello Cucinelli,FTSEMIB,Italia,Italy,Consumo discrecional,Yahoo
+BZU.MI,Buzzi,FTSEMIB,Italia,Italy,Materiales primas,Yahoo
+CPR.MI,Campari,FTSEMIB,Italia,Italy,Consumo básico,Yahoo
+FCT.MI,Fincantieri,FTSEMIB,Italia,Italy,Industria,Yahoo
+FBK.MI,FinecoBank,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+G.MI,Generali,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+HER.MI,Hera,FTSEMIB,Italia,Italy,Utilities,Yahoo
+INW.MI,INWIT,FTSEMIB,Italia,Italy,Inmobiliario,Yahoo
+IG.MI,Italgas,FTSEMIB,Italia,Italy,Utilities,Yahoo
+IVG.MI,Iveco,FTSEMIB,Italia,Italy,Industria,Yahoo
+LDO.MI,Leonardo,FTSEMIB,Italia,Italy,Industria,Yahoo
+LTMC.MI,Lottomatica Group,FTSEMIB,Italia,Italy,Consumo discrecional,Yahoo
+MB.MI,Mediobanca,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
+MONC.MI,Moncler,FTSEMIB,Italia,Italy,Consumo discrecional,Yahoo
+NEXI.MI,Nexi,FTSEMIB,Italia,Italy,Tecnología,Yahoo
+PST.MI,Poste italiane,FTSEMIB,Italia,Italy,Industria,Yahoo
+PRY.MI,Prysmian,FTSEMIB,Italia,Italy,Industria,Yahoo
+REC.MI,Recordati,FTSEMIB,Italia,Italy,Salud,Yahoo
+SPM.MI,Saipem,FTSEMIB,Italia,Italy,Energía,Yahoo
+SRG.MI,Snam,FTSEMIB,Italia,Italy,Utilities,Yahoo
+STLAM.MI,Stellantis,FTSEMIB,Italia,Netherlands,Consumo discrecional,Yahoo
+STMMI.MI,STMicroelectronics,FTSEMIB,Italia,Switzerland,Tecnología,Yahoo
+TPRO.MI,Technoprobe,FTSEMIB,Italia,Italy,Tecnología,Yahoo
+TIT.MI,Telecom Italia,FTSEMIB,Italia,Italy,Comunicaciones,Yahoo
+TEN.MI,Tenaris,FTSEMIB,Italia,Luxembourg,Energía,Yahoo
+TRN.MI,Terna,FTSEMIB,Italia,Italy,Utilities,Yahoo
+UNI.MI,Unipol,FTSEMIB,Italia,Italy,Servicios financieros,Yahoo
