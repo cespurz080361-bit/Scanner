@@ -1,0 +1,232 @@
+ticker,nombre_wiki,sector,sector_orig,fuente_sector,industria,pais_sede,pais_cotizacion
+ADS.DE,Adidas,Consumo discrecional,Consumer Cyclical,Yahoo,Footwear & Accessories,Germany,Alemania
+AIR.PA,Airbus,Industria,Industrials,Yahoo,Aerospace & Defense,Netherlands,Francia
+ALV.DE,Allianz,Servicios financieros,Financial Services,Yahoo,Insurance - Diversified,Germany,Alemania
+BAS.DE,BASF,Materiales primas,Basic Materials,Yahoo,Chemicals,Germany,Alemania
+BAYN.DE,Bayer,Salud,Healthcare,Yahoo,Drug Manufacturers - General,Germany,Alemania
+BEI.DE,Beiersdorf,Consumo básico,Consumer Defensive,Yahoo,Household & Personal Products,Germany,Alemania
+BMW.DE,BMW,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Germany,Alemania
+BNR.DE,Brenntag,Materiales primas,Basic Materials,Yahoo,Specialty Chemicals,Germany,Alemania
+CBK.DE,Commerzbank,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Germany,Alemania
+CON.DE,Continental,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Parts,Germany,Alemania
+DTG.DE,Daimler Truck,Industria,Industrials,Yahoo,Farm & Heavy Construction Machinery,Germany,Alemania
+DBK.DE,Deutsche Bank,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Germany,Alemania
+DB1.DE,Deutsche Börse,Servicios financieros,Financial Services,Yahoo,Financial Data & Stock Exchanges,Germany,Alemania
+DHL.DE,Deutsche Post,Industria,Industrials,Yahoo,Integrated Freight & Logistics,Germany,Alemania
+DTE.DE,Deutsche Telekom,Comunicaciones,Communication Services,Yahoo,Telecom Services,Germany,Alemania
+EOAN.DE,E.ON,Utilities,Utilities,Yahoo,Utilities - Diversified,Germany,Alemania
+FRE.DE,Fresenius,Salud,Healthcare,Yahoo,Medical Care Facilities,Germany,Alemania
+FME.DE,Fresenius Medical Care,Salud,Healthcare,Yahoo,Medical Care Facilities,Germany,Alemania
+G1A.DE,GEA Group,Industria,Industrials,Yahoo,Specialty Industrial Machinery,Germany,Alemania
+HNR1.DE,Hannover Re,Servicios financieros,Financial Services,Yahoo,Insurance - Reinsurance,Germany,Alemania
+HEI.DE,Heidelberg Materials,Materiales primas,Basic Materials,Yahoo,Building Materials,Germany,Alemania
+HEN3.DE,Henkel,Consumo básico,Consumer Defensive,Yahoo,Household & Personal Products,Germany,Alemania
+IFX.DE,Infineon Technologies,Tecnología,Technology,Yahoo,Semiconductors,Germany,Alemania
+MBG.DE,Mercedes-Benz Group,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Germany,Alemania
+MRK.DE,Merck,Salud,Healthcare,Yahoo,Drug Manufacturers - Specialty & Generic,Germany,Alemania
+MTX.DE,MTU Aero Engines,Industria,Industrials,Yahoo,Aerospace & Defense,Germany,Alemania
+MUV2.DE,Munich Re,Servicios financieros,Financial Services,Yahoo,Insurance - Reinsurance,Germany,Alemania
+PAH3.DE,Porsche SE,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Germany,Alemania
+QIA.DE,Qiagen,Salud,Healthcare,Yahoo,Diagnostics & Research,Netherlands,Alemania
+RHM.DE,Rheinmetall,Industria,Industrials,Yahoo,Aerospace & Defense,Germany,Alemania
+RWE.DE,RWE,Utilities,Utilities,Yahoo,Utilities - Diversified,Germany,Alemania
+SAP.DE,SAP,Tecnología,Technology,Yahoo,Software - Application,Germany,Alemania
+G24.DE,Scout24,Comunicaciones,Communication Services,Yahoo,Internet Content & Information,Germany,Alemania
+SIE.DE,Siemens,Industria,Industrials,Yahoo,Specialty Industrial Machinery,Germany,Alemania
+ENR.DE,Siemens Energy,Industria,Industrials,Yahoo,Specialty Industrial Machinery,Germany,Alemania
+SHL.DE,Siemens Healthineers,Salud,Healthcare,Yahoo,Medical Devices,Germany,Alemania
+SY1.DE,Symrise,Materiales primas,Basic Materials,Yahoo,Specialty Chemicals,Germany,Alemania
+VOW3.DE,Volkswagen Group,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Germany,Alemania
+VNA.DE,Vonovia,Inmobiliario,Real Estate,Yahoo,Real Estate Services,Germany,Alemania
+ZAL.DE,Zalando,Consumo discrecional,Consumer Cyclical,Yahoo,Internet Retail,Germany,Alemania
+AC.PA,Accor,Consumo discrecional,Consumer Cyclical,Yahoo,Lodging,France,Francia
+AI.PA,Air Liquide,Materiales primas,Basic Materials,Yahoo,Specialty Chemicals,France,Francia
+MT.AS,ArcelorMittal,Materiales primas,Basic Materials,Yahoo,Steel,Luxembourg,Países Bajos
+CS.PA,Axa,Servicios financieros,Financial Services,Yahoo,Insurance - Diversified,France,Francia
+BNP.PA,BNP Paribas,Servicios financieros,Financial Services,Yahoo,Banks - Regional,France,Francia
+EN.PA,Bouygues,Industria,Industrials,Yahoo,Engineering & Construction,France,Francia
+BVI.PA,Bureau Veritas,Industria,Industrials,Yahoo,Consulting Services,France,Francia
+CAP.PA,Capgemini,Tecnología,Technology,Yahoo,Information Technology Services,France,Francia
+CA.PA,Carrefour,Consumo básico,Consumer Defensive,Yahoo,Grocery Stores,France,Francia
+ACA.PA,Crédit Agricole,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,France,Francia
+BN.PA,Danone,Consumo básico,Consumer Defensive,Yahoo,Packaged Foods,France,Francia
+DSY.PA,Dassault Systèmes,Tecnología,Technology,Yahoo,Software - Application,France,Francia
+FGR.PA,Eiffage,Industria,Industrials,Yahoo,Engineering & Construction,France,Francia
+ENGI.PA,Engie,Utilities,Utilities,Yahoo,Utilities - Diversified,France,Francia
+EL.PA,EssilorLuxottica,Salud,Healthcare,Yahoo,Medical Instruments & Supplies,France,Francia
+ERF.PA,Eurofins Scientific,Salud,Healthcare,Yahoo,Diagnostics & Research,Luxembourg,Francia
+ENX.PA,Euronext,Servicios financieros,Financial Services,Yahoo,Financial Data & Stock Exchanges,Netherlands,Francia
+RMS.PA,Hermès,Consumo discrecional,Consumer Cyclical,Yahoo,Luxury Goods,France,Francia
+KER.PA,Kering,Consumo discrecional,Consumer Cyclical,Yahoo,Luxury Goods,France,Francia
+OR.PA,L'Oréal,Consumo básico,Consumer Defensive,Yahoo,Household & Personal Products,France,Francia
+LR.PA,Legrand,Industria,Industrials,Yahoo,Electrical Equipment & Parts,France,Francia
+MC.PA,LVMH,Consumo discrecional,Consumer Cyclical,Yahoo,Luxury Goods,France,Francia
+ML.PA,Michelin,Industrials,Industrials,Wikipedia,,,Francia
+ORA.PA,Orange,Comunicaciones,Communication Services,Yahoo,Telecom Services,France,Francia
+RI.PA,Pernod Ricard,Consumo básico,Consumer Defensive,Yahoo,Beverages - Wineries & Distilleries,France,Francia
+PUB.PA,Publicis,Comunicaciones,Communication Services,Yahoo,Advertising Agencies,France,Francia
+RNO.PA,Renault,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,France,Francia
+SAF.PA,Safran,Industria,Industrials,Yahoo,Aerospace & Defense,France,Francia
+SGO.PA,Saint-Gobain,Industria,Industrials,Yahoo,Building Products & Equipment,France,Francia
+SAN.PA,Sanofi,Salud,Healthcare,Yahoo,Drug Manufacturers - General,France,Francia
+SU.PA,Schneider Electric,Industria,Industrials,Yahoo,Specialty Industrial Machinery,France,Francia
+GLE.PA,Société Générale,Servicios financieros,Financial Services,Yahoo,Banks - Regional,France,Francia
+STLAP.PA,Stellantis,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Netherlands,Francia
+STMPA.PA,STMicroelectronics,Tecnología,Technology,Yahoo,Semiconductors,Switzerland,Francia
+HO.PA,Thales,Industria,Industrials,Yahoo,Aerospace & Defense,France,Francia
+TTE.PA,TotalEnergies,Energía,Energy,Yahoo,Oil & Gas Integrated,France,Francia
+URW.PA,Unibail-Rodamco-Westfield,Inmobiliario,Real Estate,Yahoo,REIT - Retail,France,Francia
+VIE.PA,Veolia,Industria,Industrials,Yahoo,Waste Management,France,Francia
+DG.PA,Vinci,Industria,Industrials,Yahoo,Engineering & Construction,France,Francia
+ADYEN.AS,Adyen,Tecnología,Technology,Yahoo,Software - Infrastructure,Netherlands,Países Bajos
+AD.AS,Ahold Delhaize,Consumo básico,Consumer Defensive,Yahoo,Grocery Stores,Netherlands,Países Bajos
+ABI.BR,Anheuser-Busch InBev,Consumo básico,Consumer Defensive,Yahoo,Beverages - Brewers,Belgium,Bélgica
+ARGX.BR,Argenx,Salud,Healthcare,Yahoo,Biotechnology,Netherlands,Bélgica
+ASML.AS,ASML Holding,Tecnología,Technology,Yahoo,Semiconductor Equipment & Materials,Netherlands,Países Bajos
+BBVA.MC,BBVA,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,Spain,España
+SAN.MC,Banco Santander,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,Spain,España
+ENEL.MI,Enel,Utilities,Utilities,Yahoo,Utilities - Diversified,Italy,Italia
+ENI.MI,Eni,Energía,Energy,Yahoo,Oil & Gas Integrated,Italy,Italia
+RACE.MI,Ferrari,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Italy,Italia
+IBE.MC,Iberdrola,Utilities,Utilities,Yahoo,Utilities - Diversified,Spain,España
+ITX.MC,Inditex,Consumo discrecional,Consumer Cyclical,Yahoo,Apparel Retail,Spain,España
+INGA.AS,ING Group,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,Netherlands,Países Bajos
+ISP.MI,Intesa Sanpaolo,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+NOKIA.HE,Nokia,Tecnología,Technology,Yahoo,Communication Equipment,Finland,Finlandia
+NDA-FI.HE,Nordea,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Finland,Finlandia
+PRX.AS,Prosus,Consumo discrecional,Consumer Cyclical,Yahoo,Internet Retail,Netherlands,Países Bajos
+UCG.MI,UniCredit,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+III.L,3i,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+ABDN.L,Aberdeen Group,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+ADM.L,Admiral Group,Servicios financieros,Financial Services,Yahoo,Insurance - Property & Casualty,United Kingdom,Reino Unido
+AAF.L,Airtel Africa,Comunicaciones,Communication Services,Yahoo,Telecom Services,United Kingdom,Reino Unido
+ALW.L,Alliance Witan,Closed End Investments,Closed End Investments,Wikipedia,,,Reino Unido
+AAL.L,Anglo American plc,Materiales primas,Basic Materials,Yahoo,Other Industrial Metals & Mining,United Kingdom,Reino Unido
+ANTO.L,Antofagasta plc,Materiales primas,Basic Materials,Yahoo,Copper,United Kingdom,Reino Unido
+ABF.L,Associated British Foods,Consumo básico,Consumer Defensive,Yahoo,Packaged Foods,United Kingdom,Reino Unido
+AZN.L,AstraZeneca,Salud,Healthcare,Yahoo,Drug Manufacturers - General,United Kingdom,Reino Unido
+AUTO.L,Autotrader Group,Comunicaciones,Communication Services,Yahoo,Internet Content & Information,United Kingdom,Reino Unido
+AV.L,Aviva,Servicios financieros,Financial Services,Yahoo,Insurance - Diversified,United Kingdom,Reino Unido
+BAB.L,Babcock International,Industria,Industrials,Yahoo,Engineering & Construction,United Kingdom,Reino Unido
+BA.L,BAE Systems,Industria,Industrials,Yahoo,Aerospace & Defense,United Kingdom,Reino Unido
+BBY.L,Balfour Beatty,Industria,Industrials,Yahoo,Engineering & Construction,United Kingdom,Reino Unido
+BARC.L,Barclays,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,United Kingdom,Reino Unido
+BTRW.L,Barratt Redrow,Consumo discrecional,Consumer Cyclical,Yahoo,Residential Construction,United Kingdom,Reino Unido
+BP.L,BP,Energía,Energy,Yahoo,Oil & Gas Integrated,United Kingdom,Reino Unido
+BATS.L,British American Tobacco,Consumo básico,Consumer Defensive,Yahoo,Tobacco,United Kingdom,Reino Unido
+BLND.L,British Land,Inmobiliario,Real Estate,Yahoo,REIT - Diversified,United Kingdom,Reino Unido
+BNZL.L,Bunzl,Industria,Industrials,Yahoo,Specialty Business Services,United Kingdom,Reino Unido
+BRBY.L,Burberry Group,Consumo discrecional,Consumer Cyclical,Yahoo,Luxury Goods,United Kingdom,Reino Unido
+CNA.L,Centrica,Utilities,Utilities,Yahoo,Utilities - Independent Power Producers,United Kingdom,Reino Unido
+CCEP.L,Coca-Cola Europacific Partners,Consumo básico,Consumer Defensive,Yahoo,Beverages - Non-Alcoholic,United Kingdom,Reino Unido
+CCH.L,Coca-Cola HBC,Consumo básico,Consumer Defensive,Yahoo,Beverages - Non-Alcoholic,Switzerland,Reino Unido
+CPG.L,Compass Group,Consumo discrecional,Consumer Cyclical,Yahoo,Restaurants,United Kingdom,Reino Unido
+CCC.L,Computacenter,Tecnología,Technology,Yahoo,Information Technology Services,United Kingdom,Reino Unido
+CTEC.L,Convatec,Salud,Healthcare,Yahoo,Medical Instruments & Supplies,United Kingdom,Reino Unido
+CRDA.L,Croda International,Materiales primas,Basic Materials,Yahoo,Specialty Chemicals,United Kingdom,Reino Unido
+DCC.L,DCC Energy,Energía,Energy,Yahoo,Oil & Gas Refining & Marketing,Ireland,Reino Unido
+DGE.L,Diageo,Consumo básico,Consumer Defensive,Yahoo,Beverages - Wineries & Distilleries,United Kingdom,Reino Unido
+DPLM.L,Diploma,Industria,Industrials,Yahoo,Industrial Distribution,United Kingdom,Reino Unido
+EZJ.L,EasyJet,Industria,Industrials,Yahoo,Airlines,United Kingdom,Reino Unido
+EDV.L,Endeavour Mining,Materiales primas,Basic Materials,Yahoo,Gold,United Kingdom,Reino Unido
+EXPN.L,Experian,Industria,Industrials,Yahoo,Consulting Services,Ireland,Reino Unido
+FCIT.L,F & C Investment Trust,Closed End Investments,Closed End Investments,Wikipedia,,,Reino Unido
+FRES.L,Fresnillo plc,Materiales primas,Basic Materials,Yahoo,Other Precious Metals & Mining,Mexico,Reino Unido
+GAW.L,Games Workshop,Consumo discrecional,Consumer Cyclical,Yahoo,Leisure,United Kingdom,Reino Unido
+GLEN.L,Glencore,Materiales primas,Basic Materials,Yahoo,Other Industrial Metals & Mining,Switzerland,Reino Unido
+GSK.L,GSK plc,Salud,Healthcare,Yahoo,Drug Manufacturers - General,United Kingdom,Reino Unido
+HLN.L,Haleon,Salud,Healthcare,Yahoo,Drug Manufacturers - Specialty & Generic,United Kingdom,Reino Unido
+HLMA.L,Halma plc,Industria,Industrials,Yahoo,Conglomerates,United Kingdom,Reino Unido
+HSX.L,Hiscox,Servicios financieros,Financial Services,Yahoo,Insurance - Property & Casualty,Bermuda,Reino Unido
+HWDN.L,Howdens Joinery,Consumo discrecional,Consumer Cyclical,Yahoo,"Furnishings, Fixtures & Appliances",United Kingdom,Reino Unido
+HSBA.L,HSBC,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,United Kingdom,Reino Unido
+ICG.L,ICG,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+IGG.L,IG Group,Servicios financieros,Financial Services,Yahoo,Capital Markets,United Kingdom,Reino Unido
+IHG.L,IHG Hotels & Resorts,Consumo discrecional,Consumer Cyclical,Yahoo,Lodging,United Kingdom,Reino Unido
+IMI.L,IMI,Industria,Industrials,Yahoo,Specialty Industrial Machinery,United Kingdom,Reino Unido
+IMB.L,Imperial Brands,Consumo básico,Consumer Defensive,Yahoo,Tobacco,United Kingdom,Reino Unido
+INF.L,Informa,Comunicaciones,Communication Services,Yahoo,Publishing,United Kingdom,Reino Unido
+IAG.L,International Airlines Group,Industria,Industrials,Yahoo,Airlines,United Kingdom,Reino Unido
+ITRK.L,Intertek,Industria,Industrials,Yahoo,Specialty Business Services,United Kingdom,Reino Unido
+INVP.L,Investec,Servicios financieros,Financial Services,Yahoo,Capital Markets,South Africa,Reino Unido
+ITH.L,Ithaca Energy,Energía,Energy,Yahoo,Oil & Gas E&P,United Kingdom,Reino Unido
+JD.L,JD Sports,Consumo discrecional,Consumer Cyclical,Yahoo,Apparel Retail,United Kingdom,Reino Unido
+BGEO.L,Lion Finance Group,Servicios financieros,Financial Services,Yahoo,Banks - Regional,United Kingdom,Reino Unido
+KGF.L,Kingfisher plc,Consumo discrecional,Consumer Cyclical,Yahoo,Home Improvement Retail,United Kingdom,Reino Unido
+LAND.L,Land Securities,Inmobiliario,Real Estate,Yahoo,REIT - Diversified,United Kingdom,Reino Unido
+LGEN.L,Legal & General,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+LLOY.L,Lloyds Banking Group,Servicios financieros,Financial Services,Yahoo,Banks - Regional,United Kingdom,Reino Unido
+LMP.L,LondonMetric Property,Inmobiliario,Real Estate,Yahoo,REIT - Industrial,United Kingdom,Reino Unido
+LSEG.L,London Stock Exchange Group,Servicios financieros,Financial Services,Yahoo,Financial Data & Stock Exchanges,United Kingdom,Reino Unido
+MNG.L,M&G,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+MKS.L,Marks & Spencer,Consumo discrecional,Consumer Cyclical,Yahoo,Department Stores,United Kingdom,Reino Unido
+MRO.L,Melrose Industries,Industria,Industrials,Yahoo,Specialty Industrial Machinery,United Kingdom,Reino Unido
+MTLN.L,Metlen Energy & Metals,Utilities,Utilities,Yahoo,Utilities - Diversified,Greece,Reino Unido
+NG.L,National Grid plc,Utilities,Utilities,Yahoo,Utilities - Regulated Electric,United Kingdom,Reino Unido
+NWG.L,NatWest Group,Servicios financieros,Financial Services,Yahoo,Banks - Regional,United Kingdom,Reino Unido
+NXT.L,Next plc,Consumo discrecional,Consumer Cyclical,Yahoo,Apparel Retail,United Kingdom,Reino Unido
+PSON.L,Pearson plc,Comunicaciones,Communication Services,Yahoo,Publishing,United Kingdom,Reino Unido
+PSH.L,Pershing Square Holdings,Closed End Investments,Closed End Investments,Wikipedia,,,Reino Unido
+PCT.L,Polar Capital Technology Trust,Closed End Investments,Closed End Investments,Wikipedia,,,Reino Unido
+PRU.L,Prudential plc,Servicios financieros,Financial Services,Yahoo,Insurance - Life,Hong Kong,Reino Unido
+RKT.L,Reckitt,Consumo básico,Consumer Defensive,Yahoo,Household & Personal Products,United Kingdom,Reino Unido
+REL.L,RELX,Industria,Industrials,Yahoo,Specialty Business Services,United Kingdom,Reino Unido
+RTO.L,Rentokil Initial,Industria,Industrials,Yahoo,Specialty Business Services,United Kingdom,Reino Unido
+RIO.L,Rio Tinto,Materiales primas,Basic Materials,Yahoo,Other Industrial Metals & Mining,United Kingdom,Reino Unido
+RR.L,Rolls-Royce Holdings,Industria,Industrials,Yahoo,Aerospace & Defense,United Kingdom,Reino Unido
+SGE.L,Sage Group,Tecnología,Technology,Yahoo,Software - Application,United Kingdom,Reino Unido
+SBRY.L,Sainsbury's,Consumo básico,Consumer Defensive,Yahoo,Grocery Stores,United Kingdom,Reino Unido
+SMT.L,Scottish Mortgage Investment Trust,Closed End Investments,Closed End Investments,Wikipedia,,,Reino Unido
+SGRO.L,Segro,Inmobiliario,Real Estate,Yahoo,REIT - Industrial,United Kingdom,Reino Unido
+SVT.L,Severn Trent,Utilities,Utilities,Yahoo,Utilities - Regulated Water,United Kingdom,Reino Unido
+SHEL.L,Shell plc,Energía,Energy,Yahoo,Oil & Gas Integrated,United Kingdom,Reino Unido
+SMIN.L,Smiths Group,Industria,Industrials,Yahoo,Specialty Industrial Machinery,United Kingdom,Reino Unido
+SN.L,Smith & Nephew,Salud,Healthcare,Yahoo,Medical Devices,United Kingdom,Reino Unido
+SPX.L,Spirax Group,Industria,Industrials,Yahoo,Specialty Industrial Machinery,United Kingdom,Reino Unido
+SSE.L,SSE plc,Utilities,Utilities,Yahoo,Utilities - Diversified,United Kingdom,Reino Unido
+STAN.L,Standard Chartered,Servicios financieros,Financial Services,Yahoo,Banks - Diversified,United Kingdom,Reino Unido
+SDLF.L,Standard Life,Servicios financieros,Financial Services,Yahoo,Insurance - Life,United Kingdom,Reino Unido
+STJ.L,St. James's Place,Servicios financieros,Financial Services,Yahoo,Asset Management,United Kingdom,Reino Unido
+TSCO.L,Tesco,Consumo básico,Consumer Defensive,Yahoo,Grocery Stores,United Kingdom,Reino Unido
+BBOX.L,Tritax Big Box REIT,Real Estate Investment Trusts,Real Estate Investment Trusts,Wikipedia,,,Reino Unido
+ULVR.L,Unilever,Consumo básico,Consumer Defensive,Yahoo,Household & Personal Products,United Kingdom,Reino Unido
+UU.L,United Utilities,Utilities,Utilities,Yahoo,Utilities - Regulated Water,United Kingdom,Reino Unido
+VOD.L,Vodafone Group,Comunicaciones,Communication Services,Yahoo,Telecom Services,United Kingdom,Reino Unido
+WEIR.L,Weir,Industria,Industrials,Yahoo,Specialty Industrial Machinery,United Kingdom,Reino Unido
+WTB.L,Whitbread,Consumo discrecional,Consumer Cyclical,Yahoo,Lodging,United Kingdom,Reino Unido
+WPP.L,WPP,Comunicaciones,Communication Services,Yahoo,Advertising Agencies,United Kingdom,Reino Unido
+A2A.MI,A2A,Utilities,Utilities,Yahoo,Utilities - Diversified,Italy,Italia
+AMP.MI,Amplifon,Salud,Healthcare,Yahoo,Medical Distribution,Italy,Italia
+AVIO.MI,Avio,Industria,Industrials,Yahoo,Aerospace & Defense,Italy,Italia
+AZM.MI,Azimut,Servicios financieros,Financial Services,Yahoo,Asset Management,Italy,Italia
+BMED.MI,Banca Mediolanum,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+BMPS.MI,Banca Monte dei Paschi di Siena,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+BAMI.MI,Banco BPM,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+BPE.MI,BPER Banca,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+BC.MI,Brunello Cucinelli,Consumo discrecional,Consumer Cyclical,Yahoo,Luxury Goods,Italy,Italia
+BZU.MI,Buzzi,Materiales primas,Basic Materials,Yahoo,Building Materials,Italy,Italia
+CPR.MI,Campari,Consumo básico,Consumer Defensive,Yahoo,Beverages - Wineries & Distilleries,Italy,Italia
+FCT.MI,Fincantieri,Industria,Industrials,Yahoo,Aerospace & Defense,Italy,Italia
+FBK.MI,FinecoBank,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+G.MI,Generali,Servicios financieros,Financial Services,Yahoo,Insurance - Diversified,Italy,Italia
+HER.MI,Hera,Utilities,Utilities,Yahoo,Utilities - Diversified,Italy,Italia
+INW.MI,INWIT,Inmobiliario,Real Estate,Yahoo,Real Estate Services,Italy,Italia
+IG.MI,Italgas,Utilities,Utilities,Yahoo,Utilities - Regulated Gas,Italy,Italia
+IVG.MI,Iveco,Industria,Industrials,Yahoo,Farm & Heavy Construction Machinery,Italy,Italia
+LDO.MI,Leonardo,Industria,Industrials,Yahoo,Aerospace & Defense,Italy,Italia
+LTMC.MI,Lottomatica Group,Consumo discrecional,Consumer Cyclical,Yahoo,Gambling,Italy,Italia
+MB.MI,Mediobanca,Servicios financieros,Financial Services,Yahoo,Banks - Regional,Italy,Italia
+MONC.MI,Moncler,Consumo discrecional,Consumer Cyclical,Yahoo,Apparel Manufacturing,Italy,Italia
+NEXI.MI,Nexi,Tecnología,Technology,Yahoo,Software - Infrastructure,Italy,Italia
+PST.MI,Poste italiane,Industria,Industrials,Yahoo,Integrated Freight & Logistics,Italy,Italia
+PRY.MI,Prysmian,Industria,Industrials,Yahoo,Electrical Equipment & Parts,Italy,Italia
+REC.MI,Recordati,Salud,Healthcare,Yahoo,Drug Manufacturers - General,Italy,Italia
+SPM.MI,Saipem,Energía,Energy,Yahoo,Oil & Gas Equipment & Services,Italy,Italia
+SRG.MI,Snam,Utilities,Utilities,Yahoo,Utilities - Regulated Gas,Italy,Italia
+STLAM.MI,Stellantis,Consumo discrecional,Consumer Cyclical,Yahoo,Auto Manufacturers,Netherlands,Italia
+STMMI.MI,STMicroelectronics,Tecnología,Technology,Yahoo,Semiconductors,Switzerland,Italia
+TPRO.MI,Technoprobe,Tecnología,Technology,Yahoo,Semiconductors,Italy,Italia
+TIT.MI,Telecom Italia,Comunicaciones,Communication Services,Yahoo,Telecom Services,Italy,Italia
+TEN.MI,Tenaris,Energía,Energy,Yahoo,Oil & Gas Equipment & Services,Luxembourg,Italia
+TRN.MI,Terna,Utilities,Utilities,Yahoo,Utilities - Regulated Electric,Italy,Italia
+UNI.MI,Unipol,Servicios financieros,Financial Services,Yahoo,Insurance - Property & Casualty,Italy,Italia

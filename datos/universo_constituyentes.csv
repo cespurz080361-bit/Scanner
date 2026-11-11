@@ -1,0 +1,232 @@
+ticker,nombre,indices
+ADS.DE,Adidas,DAX+ESTX50
+AIR.PA,Airbus,CAC40+DAX+ESTX50
+ALV.DE,Allianz,DAX+ESTX50
+BAS.DE,BASF,DAX+ESTX50
+BAYN.DE,Bayer,DAX+ESTX50
+BEI.DE,Beiersdorf,DAX
+BMW.DE,BMW,DAX+ESTX50
+BNR.DE,Brenntag,DAX
+CBK.DE,Commerzbank,DAX
+CON.DE,Continental,DAX
+DTG.DE,Daimler Truck,DAX
+DBK.DE,Deutsche Bank,DAX+ESTX50
+DB1.DE,Deutsche Börse,DAX+ESTX50
+DHL.DE,Deutsche Post,DAX+ESTX50
+DTE.DE,Deutsche Telekom,DAX+ESTX50
+EOAN.DE,E.ON,DAX
+FRE.DE,Fresenius,DAX
+FME.DE,Fresenius Medical Care,DAX
+G1A.DE,GEA Group,DAX
+HNR1.DE,Hannover Re,DAX
+HEI.DE,Heidelberg Materials,DAX
+HEN3.DE,Henkel,DAX
+IFX.DE,Infineon Technologies,DAX+ESTX50
+MBG.DE,Mercedes-Benz Group,DAX+ESTX50
+MRK.DE,Merck,DAX
+MTX.DE,MTU Aero Engines,DAX
+MUV2.DE,Munich Re,DAX+ESTX50
+PAH3.DE,Porsche SE,DAX
+QIA.DE,Qiagen,DAX
+RHM.DE,Rheinmetall,DAX+ESTX50
+RWE.DE,RWE,DAX
+SAP.DE,SAP,DAX+ESTX50
+G24.DE,Scout24,DAX
+SIE.DE,Siemens,DAX+ESTX50
+ENR.DE,Siemens Energy,DAX+ESTX50
+SHL.DE,Siemens Healthineers,DAX
+SY1.DE,Symrise,DAX
+VOW3.DE,Volkswagen Group,DAX
+VNA.DE,Vonovia,DAX
+ZAL.DE,Zalando,DAX
+AC.PA,Accor,CAC40
+AI.PA,Air Liquide,CAC40+ESTX50
+MT.AS,ArcelorMittal,CAC40
+CS.PA,Axa,CAC40+ESTX50
+BNP.PA,BNP Paribas,CAC40+ESTX50
+EN.PA,Bouygues,CAC40
+BVI.PA,Bureau Veritas,CAC40
+CAP.PA,Capgemini,CAC40
+CA.PA,Carrefour,CAC40
+ACA.PA,Crédit Agricole,CAC40
+BN.PA,Danone,CAC40+ESTX50
+DSY.PA,Dassault Systèmes,CAC40
+FGR.PA,Eiffage,CAC40
+ENGI.PA,Engie,CAC40+ESTX50
+EL.PA,EssilorLuxottica,CAC40+ESTX50
+ERF.PA,Eurofins Scientific,CAC40
+ENX.PA,Euronext,CAC40
+RMS.PA,Hermès,CAC40+ESTX50
+KER.PA,Kering,CAC40
+OR.PA,L'Oréal,CAC40+ESTX50
+LR.PA,Legrand,CAC40
+MC.PA,LVMH,CAC40+ESTX50
+ML.PA,Michelin,CAC40
+ORA.PA,Orange,CAC40
+RI.PA,Pernod Ricard,CAC40
+PUB.PA,Publicis,CAC40
+RNO.PA,Renault,CAC40
+SAF.PA,Safran,CAC40+ESTX50
+SGO.PA,Saint-Gobain,CAC40+ESTX50
+SAN.PA,Sanofi,CAC40+ESTX50
+SU.PA,Schneider Electric,CAC40+ESTX50
+GLE.PA,Société Générale,CAC40
+STLAP.PA,Stellantis,CAC40
+STMPA.PA,STMicroelectronics,CAC40
+HO.PA,Thales,CAC40
+TTE.PA,TotalEnergies,CAC40+ESTX50
+URW.PA,Unibail-Rodamco-Westfield,CAC40
+VIE.PA,Veolia,CAC40
+DG.PA,Vinci,CAC40+ESTX50
+ADYEN.AS,Adyen,ESTX50
+AD.AS,Ahold Delhaize,ESTX50
+ABI.BR,Anheuser-Busch InBev,ESTX50
+ARGX.BR,Argenx,ESTX50
+ASML.AS,ASML Holding,ESTX50
+BBVA.MC,BBVA,ESTX50
+SAN.MC,Banco Santander,ESTX50
+ENEL.MI,Enel,ESTX50+FTSEMIB
+ENI.MI,Eni,ESTX50+FTSEMIB
+RACE.MI,Ferrari,ESTX50+FTSEMIB
+IBE.MC,Iberdrola,ESTX50
+ITX.MC,Inditex,ESTX50
+INGA.AS,ING Group,ESTX50
+ISP.MI,Intesa Sanpaolo,ESTX50+FTSEMIB
+NOKIA.HE,Nokia,ESTX50
+NDA-FI.HE,Nordea,ESTX50
+PRX.AS,Prosus,ESTX50
+UCG.MI,UniCredit,ESTX50+FTSEMIB
+III.L,3i,FTSE100
+ABDN.L,Aberdeen Group,FTSE100
+ADM.L,Admiral Group,FTSE100
+AAF.L,Airtel Africa,FTSE100
+ALW.L,Alliance Witan,FTSE100
+AAL.L,Anglo American plc,FTSE100
+ANTO.L,Antofagasta plc,FTSE100
+ABF.L,Associated British Foods,FTSE100
+AZN.L,AstraZeneca,FTSE100
+AUTO.L,Autotrader Group,FTSE100
+AV.L,Aviva,FTSE100
+BAB.L,Babcock International,FTSE100
+BA.L,BAE Systems,FTSE100
+BBY.L,Balfour Beatty,FTSE100
+BARC.L,Barclays,FTSE100
+BTRW.L,Barratt Redrow,FTSE100
+BP.L,BP,FTSE100
+BATS.L,British American Tobacco,FTSE100
+BLND.L,British Land,FTSE100
+BNZL.L,Bunzl,FTSE100
+BRBY.L,Burberry Group,FTSE100
+CNA.L,Centrica,FTSE100
+CCEP.L,Coca-Cola Europacific Partners,FTSE100
+CCH.L,Coca-Cola HBC,FTSE100
+CPG.L,Compass Group,FTSE100
+CCC.L,Computacenter,FTSE100
+CTEC.L,Convatec,FTSE100
+CRDA.L,Croda International,FTSE100
+DCC.L,DCC Energy,FTSE100
+DGE.L,Diageo,FTSE100
+DPLM.L,Diploma,FTSE100
+EZJ.L,EasyJet,FTSE100
+EDV.L,Endeavour Mining,FTSE100
+EXPN.L,Experian,FTSE100
+FCIT.L,F & C Investment Trust,FTSE100
+FRES.L,Fresnillo plc,FTSE100
+GAW.L,Games Workshop,FTSE100
+GLEN.L,Glencore,FTSE100
+GSK.L,GSK plc,FTSE100
+HLN.L,Haleon,FTSE100
+HLMA.L,Halma plc,FTSE100
+HSX.L,Hiscox,FTSE100
+HWDN.L,Howdens Joinery,FTSE100
+HSBA.L,HSBC,FTSE100
+ICG.L,ICG,FTSE100
+IGG.L,IG Group,FTSE100
+IHG.L,IHG Hotels & Resorts,FTSE100
+IMI.L,IMI,FTSE100
+IMB.L,Imperial Brands,FTSE100
+INF.L,Informa,FTSE100
+IAG.L,International Airlines Group,FTSE100
+ITRK.L,Intertek,FTSE100
+INVP.L,Investec,FTSE100
+ITH.L,Ithaca Energy,FTSE100
+JD.L,JD Sports,FTSE100
+BGEO.L,Lion Finance Group,FTSE100
+KGF.L,Kingfisher plc,FTSE100
+LAND.L,Land Securities,FTSE100
+LGEN.L,Legal & General,FTSE100
+LLOY.L,Lloyds Banking Group,FTSE100
+LMP.L,LondonMetric Property,FTSE100
+LSEG.L,London Stock Exchange Group,FTSE100
+MNG.L,M&G,FTSE100
+MKS.L,Marks & Spencer,FTSE100
+MRO.L,Melrose Industries,FTSE100
+MTLN.L,Metlen Energy & Metals,FTSE100
+NG.L,National Grid plc,FTSE100
+NWG.L,NatWest Group,FTSE100
+NXT.L,Next plc,FTSE100
+PSON.L,Pearson plc,FTSE100
+PSH.L,Pershing Square Holdings,FTSE100
+PCT.L,Polar Capital Technology Trust,FTSE100
+PRU.L,Prudential plc,FTSE100
+RKT.L,Reckitt,FTSE100
+REL.L,RELX,FTSE100
+RTO.L,Rentokil Initial,FTSE100
+RIO.L,Rio Tinto,FTSE100
+RR.L,Rolls-Royce Holdings,FTSE100
+SGE.L,Sage Group,FTSE100
+SBRY.L,Sainsbury's,FTSE100
+SMT.L,Scottish Mortgage Investment Trust,FTSE100
+SGRO.L,Segro,FTSE100
+SVT.L,Severn Trent,FTSE100
+SHEL.L,Shell plc,FTSE100
+SMIN.L,Smiths Group,FTSE100
+SN.L,Smith & Nephew,FTSE100
+SPX.L,Spirax Group,FTSE100
+SSE.L,SSE plc,FTSE100
+STAN.L,Standard Chartered,FTSE100
+SDLF.L,Standard Life,FTSE100
+STJ.L,St. James's Place,FTSE100
+TSCO.L,Tesco,FTSE100
+BBOX.L,Tritax Big Box REIT,FTSE100
+ULVR.L,Unilever,FTSE100
+UU.L,United Utilities,FTSE100
+VOD.L,Vodafone Group,FTSE100
+WEIR.L,Weir,FTSE100
+WTB.L,Whitbread,FTSE100
+WPP.L,WPP,FTSE100
+A2A.MI,A2A,FTSEMIB
+AMP.MI,Amplifon,FTSEMIB
+AVIO.MI,Avio,FTSEMIB
+AZM.MI,Azimut,FTSEMIB
+BMED.MI,Banca Mediolanum,FTSEMIB
+BMPS.MI,Banca Monte dei Paschi di Siena,FTSEMIB
+BAMI.MI,Banco BPM,FTSEMIB
+BPE.MI,BPER Banca,FTSEMIB
+BC.MI,Brunello Cucinelli,FTSEMIB
+BZU.MI,Buzzi,FTSEMIB
+CPR.MI,Campari,FTSEMIB
+FCT.MI,Fincantieri,FTSEMIB
+FBK.MI,FinecoBank,FTSEMIB
+G.MI,Generali,FTSEMIB
+HER.MI,Hera,FTSEMIB
+INW.MI,INWIT,FTSEMIB
+IG.MI,Italgas,FTSEMIB
+IVG.MI,Iveco,FTSEMIB
+LDO.MI,Leonardo,FTSEMIB
+LTMC.MI,Lottomatica Group,FTSEMIB
+MB.MI,Mediobanca,FTSEMIB
+MONC.MI,Moncler,FTSEMIB
+NEXI.MI,Nexi,FTSEMIB
+PST.MI,Poste italiane,FTSEMIB
+PRY.MI,Prysmian,FTSEMIB
+REC.MI,Recordati,FTSEMIB
+SPM.MI,Saipem,FTSEMIB
+SRG.MI,Snam,FTSEMIB
+STLAM.MI,Stellantis,FTSEMIB
+STMMI.MI,STMicroelectronics,FTSEMIB
+TPRO.MI,Technoprobe,FTSEMIB
+TIT.MI,Telecom Italia,FTSEMIB
+TEN.MI,Tenaris,FTSEMIB
+TRN.MI,Terna,FTSEMIB
+UNI.MI,Unipol,FTSEMIB
