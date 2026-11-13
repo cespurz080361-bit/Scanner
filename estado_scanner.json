@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T19:19:15+01:00",
-  "ultima_sesion": "2026-11-12",
+  "actualizado": "2026-11-13T19:17:37+01:00",
+  "ultima_sesion": "2026-11-13",
   "notificados": {
     "entradas": {
       "EDV.L#2026-11-10": "referencia inicial",
@@ -24,7 +24,8 @@
       "AZN.L#TP2#2026-10-30": "referencia inicial",
       "KGF.L#TP1#2026-11-04": "referencia inicial",
       "KGF.L#TP2#2026-11-05": "referencia inicial",
-      "BRBY.L#TP1#2026-11-12": "2026-11-12T19:19:14+01:00"
+      "BRBY.L#TP1#2026-11-12": "2026-11-12T19:19:14+01:00",
+      "AD.AS#TP3#2026-11-13": "2026-11-13T19:17:36+01:00"
     }
   },
   "cola_envio": []
