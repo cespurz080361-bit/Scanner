@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-23T19:20:45+01:00",
-  "ultima_sesion": "2026-11-23",
+  "actualizado": "2026-11-24T19:18:20+01:00",
+  "ultima_sesion": "2026-11-24",
   "notificados": {
     "entradas": {
       "EDV.L#2026-11-10": "referencia inicial",
@@ -15,7 +15,8 @@
     },
     "pendientes": {},
     "vigilancia": {
-      "GSK.L#2026-11-10": "referencia inicial"
+      "GSK.L#2026-11-10": "referencia inicial",
+      "BAB.L#2026-11-24": "2026-11-24T19:18:20+01:00"
     },
     "eventos": {
       "AD.AS#TP1#2026-11-05": "referencia inicial",

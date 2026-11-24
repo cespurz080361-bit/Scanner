@@ -1,2 +1,3 @@
 pais,sector,nombre,ticker,indices,divisa,fecha_senal,P0,P1,P2,W1,W2,caida_pct,fecha_top,SL_P0,SL_TStop,TP1,TP2,TP3,TP4,nivel_T1,nivel_T2,sesiones_ventana_restantes,condicion
-Reino Unido,Salud,GSK plc,GSK.L,FTSE100,GBP,2026-11-10,17.355,21.58,17.835,4.225,3.745,23.9,2026-02-18,17.355,16.7115,23.8944,25.325,27.6394,29.9538,19.26,19.4675,6,cierre > T1 y cierre ≥ T2 (o invalidación: cierre < P2)
+Reino Unido,Industria,Babcock International,BAB.L,FTSE100,GBP,2026-11-24,8.712,10.81,9.736,2.098,1.074,42.9,2026-01-14,8.712,9.4138,11.4737,11.884,12.5477,13.2115,10.715,9.761,15,cierre > T1 y cierre ≥ T2 (o invalidación: cierre < P2)
+Reino Unido,Salud,GSK plc,GSK.L,FTSE100,GBP,2026-11-10,17.355,21.58,17.835,4.225,3.745,23.9,2026-02-18,17.355,16.7115,23.8944,25.325,27.6394,29.9538,19.26,19.4675,5,cierre > T1 y cierre ≥ T2 (o invalidación: cierre < P2)
