@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-26T02:06:11+01:00",
-  "ultima_sesion": "2026-11-24",
+  "actualizado": "2026-11-27T02:07:25+01:00",
+  "ultima_sesion": "2026-11-25",
   "notificados": {
     "entradas": {
       "EDV.L#2026-11-10": "referencia inicial",
@@ -13,7 +13,9 @@
       "AZN.L#2026-10-16": "referencia inicial",
       "KGF.L#2026-10-16": "referencia inicial"
     },
-    "pendientes": {},
+    "pendientes": {
+      "IMB.L#2026-11-25": "2026-11-27T02:07:23+01:00"
+    },
     "vigilancia": {
       "GSK.L#2026-11-10": "referencia inicial",
       "BAB.L#2026-11-24": "2026-11-24T19:18:20+01:00"
@@ -27,7 +29,8 @@
       "KGF.L#TP2#2026-11-05": "referencia inicial",
       "BRBY.L#TP1#2026-11-12": "2026-11-12T19:19:14+01:00",
       "AD.AS#TP3#2026-11-13": "2026-11-13T19:17:36+01:00",
-      "EDV.L#SL P0#2026-11-20": "2026-11-20T19:25:12+01:00"
+      "EDV.L#SL P0#2026-11-20": "2026-11-20T19:25:12+01:00",
+      "EDV.L#SL TStop#2026-11-25": "2026-11-27T02:07:24+01:00"
     }
   },
   "cola_envio": []

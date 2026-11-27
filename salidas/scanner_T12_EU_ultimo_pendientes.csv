@@ -1,0 +1,2 @@
+pais,sector,nombre,ticker,indices,divisa,fecha_senal,P0,P1,P2,W1,W2,caida_pct,fecha_top,SL_P0,SL_TStop,TP1,TP2,TP3,TP4,fecha_disparo,entrada_prevista
+Reino Unido,Consumo básico,Imperial Brands,IMB.L,FTSE100,GBP,2026-11-25,24.08,30.86,27.42,6.78,3.44,33.7,2025-12-19,24.08,26.388,32.9859,34.3,36.4259,38.5518,2026-11-25,próxima apertura
